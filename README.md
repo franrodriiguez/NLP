@@ -13,7 +13,7 @@ El objetivo principal es construir un sistema capaz de clasificar automáticamen
 Se ha utilizado el dataset **Sports and Outdoors** del conjunto de reviews de Amazon proporcionado por UCSD.
 
 **Fuente:**  
-http://jmcauley.ucsd.edu/data/amazon/
+https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html
 
 Para facilitar el procesamiento y entrenamiento de los modelos, se ha trabajado sobre un subconjunto balanceado de reviews positivas y negativas.
 
